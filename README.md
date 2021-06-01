@@ -11,7 +11,7 @@
 ## Demo
 Link: In process...
 
-![alt-text-1](https://i.imgur.com/3mfNfJF.png "title-1") ![alt-text-2](https://i.imgur.com/Fxospuv.png "title-2")
+![](https://i.imgur.com/3mfNfJF.png) ![](https://i.imgur.com/Fxospuv.png)
 
 ## Overview
 This is a to-do list application made with the Django framework. It has the function of add, edit or delete tasks. It also contains a login and registration page.
