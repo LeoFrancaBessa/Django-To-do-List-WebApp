@@ -6,15 +6,12 @@
   * [Motivation](#motivation)
   * [Technologies Used](#technologies-used)
   * [Technical Aspect](#technical-aspect)
-  * [Machine Learning Model](#machine-learning-model)
-  * [Data Collection](#data-collection)
   * [Team](#team)
-  * [Credits](#credits)
 
 ## Demo
 Link: In process...
 
-[![](https://imgur.com/3mfNfJF.png)]()
+[![](https://imgur.com/3mfNfJF.png)] [https://i.imgur.com/Fxospuv.png]
 
 ## Overview
 This is a to-do list application made with the Django framework. It has the function of add, edit or delete tasks. It also contains a login and registration page.
