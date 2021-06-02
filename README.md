@@ -22,7 +22,7 @@ The main motivation for this project is to test my Django skills, since it is my
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" width=170>](https://www.djangoproject.com/)[<img target="_blank" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" width=200>](https://dashboard.heroku.com/apps) 
+[<img target="_blank" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" width=170>](https://www.djangoproject.com/)
 
 
 ## Technical Aspect
