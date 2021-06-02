@@ -20,8 +20,8 @@ This is a to-do list application made with the Django framework. It has the func
 The main motivation for this project is to test my Django skills, since it is my first contact with the framework. Later, I'm planning on build more complex applications.
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
 
+[<img target="_blank" src="https://forthebadge.com/images/badges/made-with-python.svg" width=170>](https://www.python.org/)
 [<img target="_blank" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" width=170>](https://www.djangoproject.com/)
 
 
